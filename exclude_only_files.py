@@ -1,8 +1,6 @@
 import os
 import shutil
-import re
 import fnmatch
-from pathlib import Path
 
 
 # find out exclude files and folders 
